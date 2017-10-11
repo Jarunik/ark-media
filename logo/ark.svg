@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+<g id="Normal" display="none">
+	<g id="Logo" display="inline">
+		<g id="Right">
+			<polygon fill="#2997C3" points="93,375 250,125 250,214 			"/>
+			<polygon fill="#2997C3" points="223,278 250,250 250,278 			"/>
+			<polygon fill="#2997C3" points="179,323 205,297 250,297 250,323 			"/>
+		</g>
+		<g id="Left_1_">
+			<polygon fill="#1D7EA5" points="407,375 250,125 250,214 			"/>
+			<polygon fill="#1D7EA5" points="277,278 250,250 250,278 			"/>
+			<polygon fill="#1D7EA5" points="321,323 295,297 250,297 250,323 			"/>
+		</g>
+	</g>
+</g>
+<g id="Flipped">
+	<g id="Logo_1_">
+		<g id="Right_1_">
+			<polygon points="15,464.2 250,90 250,223.2 			"/>
+			<polygon points="143.7,386.4 182.6,347.5 250,347.5 250,386.4 			"/>
+			<polygon points="209.6,319 250,277.1 250,319 			"/>
+		</g>
+		<g id="Left_2_">
+			<polygon points="485,464.2 250,90 250,223.2 			"/>
+			<polygon points="356.3,386.4 317.4,347.5 250,347.5 250,386.4 			"/>
+			<polygon points="290.4,319 250,277.1 250,319 			"/>
+		</g>
+	</g>
+</g>
+</svg>
